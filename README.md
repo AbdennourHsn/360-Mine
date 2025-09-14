@@ -28,7 +28,6 @@ Short prototype that blends **360° images** with a **3D environment scan** to s
 - **Unity**: tested with **2022.3 LTS** (URP).  
 - **Render Pipeline**: **URP** (Universal Render Pipeline).  
 - **Tweening**: **DOTween** (free) for smooth camera moves.  
-- (Optional) **TextMeshPro** for UI text.
 
 ---
 
@@ -70,14 +69,6 @@ Short prototype that blends **360° images** with a **3D environment scan** to s
 
 ---
 
-## 📦 Build Targets
-
-- **Desktop**: Works out of the box.  
-- **Web (planned)**: WebGL build + a small **React.js** wrapper/page for hosting a live demo.  
-  > Note: Not shipped yet due to time constraints.
-
----
-
 ## ⚠️ Limitations
 
 - **Perfect alignment** is hard without ground-truth anchor correspondences.  
@@ -90,16 +81,6 @@ Short prototype that blends **360° images** with a **3D environment scan** to s
 
 - Authoring tool to **pick/solve anchors** more precisely  
 - Improved **parallax** (depth cues) for 360s  
-- **WebGL + React** demo page  
-- Better mobile controls & UX polish  
-
----
-
-## 🙏 Credits
-
-- 3D scan & 360° images: **[Provider / Client Name]**  
-- Tweening: **DOTween**  
-- Unity **URP**
 
 
 
