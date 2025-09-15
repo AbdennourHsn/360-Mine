@@ -25,7 +25,7 @@ Short prototype that blends **360° images** with a **3D environment scan** to s
 
 ## 🧩 Tech & Dependencies
 
-- **Unity**: tested with **2022.3 LTS** (URP).  
+- **Unity**: tested with **6000.3 LTS** (URP).  
 - **Render Pipeline**: **URP** (Universal Render Pipeline).  
 - **Tweening**: **DOTween** (free) for smooth camera moves.  
 
